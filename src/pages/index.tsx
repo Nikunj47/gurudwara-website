@@ -101,11 +101,11 @@ const ComingSoonPage = () => {
             <Head>
                 <title>Guru Tegh Bahadur Sahib - Coming Soon</title>
                 <meta name="description" content="Our Gurudwara website is under construction and will be launching soon!" />
-                <link rel="icon" href="/public/gurudwaraLogo.jpg" /> {/* You can update this path */}
+                <link rel="icon" href="/public/gurudwaraLogo.jpeg" /> {/* You can update this path */}
             </Head>
             <div style={pageStyles}>
-                {/* Optional: Add an icon for the Gurudwara */}
-                 <img src="/public/gurudwaraLogo.jpg" alt="Gurudwara Icon" style={iconStyles} />
+                 {/*Optional: Add an icon for the Gurudwara */}
+                 {/*<img src="/public/gurudwaraLogo.jpeg" alt="Gurudwara Icon" style={iconStyles} />*/}
 
                 <h1 style={titleStyles}>Guru Tegh Bahadur Sahib</h1>
                 <p style={subtitleStyles}>Website Coming Soon</p>
